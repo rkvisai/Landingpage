@@ -1187,7 +1187,7 @@ a.menu-toggle {
 	margin-right: auto;
 }
 .intro-content h5 {
-	color: #FFFFFF;
+	color: rgba(255, 255, 255, 0.6);
 	font-family: "raleway-heavy", sans-serif;
 	font-size: 1.8rem;
 	line-height: 1.667;
@@ -2175,7 +2175,7 @@ footer h4 {
 	border-bottom: 1px solid rgba(255, 255, 255, 0.03);
 	padding-bottom: 1.2rem;
 	margin-bottom: 1.2rem;
-	color: #FFFFFF;
+	color: rgb(199, 199, 199);
 }
 footer ul {
 	margin-left: 0;
@@ -2186,7 +2186,7 @@ footer ul li {
 .footer-main {
 	padding-top: 6.6rem;
 	padding-bottom: 4.2rem;
-	background: #171b23;
+	background: #ffffff;
 }
 .footer-main ul {
 	font-size: 1.5rem;
