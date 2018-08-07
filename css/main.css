@@ -147,13 +147,13 @@ h5, {
 	font-size: 1.4rem;
 	line-height: 1.7;
 	text-transform: uppercase;
-	letter-spacing: .8rem;
+	letter-spacing: .15rem;
 }
 h6, .h06 {
-	font-size: 1.3rem;
-	line-height: 1.85;
+	font-size: 2rem;
+	line-height: 3rem;
 	text-transform: uppercase;
-	letter-spacing: .15rem;
+	letter-spacing: .8rem;
 }
 
 p img {
