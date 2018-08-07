@@ -112,6 +112,7 @@ h5, .h05, h6, .h06 {
 	margin-bottom: 1.2rem;
 }
 
+
 h1, .h01 {
 	font-size: 3.1rem;
 	line-height: 1.35;
@@ -136,7 +137,13 @@ h4, .h04 {
 	font-size: 1.7rem;
 	line-height: 1.76;
 }
-h5, .h05 {
+h5, {
+	font-size: 1.4rem;
+	line-height: 1.7;
+	text-transform: uppercase;
+	letter-spacing: .15rem;
+}
+.h05 {
 	font-size: 1.4rem;
 	line-height: 1.7;
 	text-transform: uppercase;
