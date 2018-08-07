@@ -1184,9 +1184,9 @@ a.menu-toggle {
 	-ms-transform: translateY(-1.2rem);
 	transform: translateY(-1.2rem);
 }
-.intro-brand h1 {
+.intro-brand  h5 {
 	color: #FFFFFF;
-	font-family: "merriweather-bold", serif;
+	font-family: "merriweather-bold", sans-serif;
 	font-size: 5.4rem;
 	line-height: 1.334;
 	max-width: 800px;
