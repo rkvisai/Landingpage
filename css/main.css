@@ -831,7 +831,7 @@ header .logo {
 	margin-top: 5px;
 	z-index: 600;
 	position: absolute;
-	left: 35px;
+	left: 0px;
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -1226,7 +1226,7 @@ a.menu-toggle {
 	letter-spacing: .25rem;
 }
 .intro-content .clothxlogo-part {
-	margin: 150px ;
+	margin: 100px ;
 	height: 125px;
 	background-image: url("../images/CX.png");
 	background-repeat: no-repeat;
