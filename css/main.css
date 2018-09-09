@@ -1221,23 +1221,12 @@ a.menu-toggle {
 	color: #FFFFFF;
 	font-family: "audiowide";
 	text-shadow: 2px 2px #0000;
-	font-size: 1.8rem;
+	font-size:10rem;
 	line-height: 1.667;
 	margin-bottom: 0.6rem;
-	text-transform: uppercase;
 	letter-spacing: .25rem;
 }
-.intro-content .clothxlogo-part {
-	margin: 100px ;
-	height: 125px;
-	background-image: url("../images/CX.png");
-	background-repeat: no-repeat;
-	background-position: center;
-	-webkit-background-size: contain;
-	-moz-background-size: contain;
-	background-size: contain;
-}
-}
+
 .intro-content .button {
 	border-color: #FFFFFF;
 	color: #FFFFFF;
