@@ -1179,8 +1179,13 @@ a.menu-toggle {
 
 #intro {
 	background: #14181E url(../images/intro-bg.jpg) no-repeat center;
-	-webkit-background-size: cover;
+	
 	-moz-background-size: cover;
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);
 	background-size: cover;
 	width: 100%;
 	height: 100%;
@@ -1209,7 +1214,8 @@ a.menu-toggle {
 }
 
 .intro-content h1 {
-	color: #FFFFFF;
+	color: rgb(255, 255, 255);
+	text-shadow: -1px 0 rgb(74, 177, 154), 0 1px rgb(74, 177, 154), 1px 0 rgb(74, 177, 154), 0 -1px rgb(74, 177, 154);
 	font-family: "merriweather-bold", serif;
 	font-size: 5.4rem;
 	line-height: 1.334;
@@ -2211,7 +2217,7 @@ footer ul li {
 .footer-main {
 	padding-top: 6.6rem;
 	padding-bottom: 4.2rem;
-	background: #ffffff;
+	background: #2b2a2a;
 }
 .footer-main ul {
 	font-size: 1.5rem;
@@ -2221,7 +2227,7 @@ footer ul li {
 	list-style: none;
 }
 .footer-main ul a, .footer-main ul a:visited {
-	color: #465166;
+	color: #9e9a99;
 }
 .footer-main ul a:hover, .footer-main ul a:focus {
 	color: #FFFFFF;
@@ -2243,7 +2249,7 @@ footer ul li {
 .footer-main .footer-subscribe .subscribe-form input[type="email"] {
 	padding: .6rem 2rem;
 	border-radius: 5px;
-	background: #232933;
+	background: #ffff;
 	border: none;
 	width: 100%;
 	font-family: "raleway-regular", sans-serif;
