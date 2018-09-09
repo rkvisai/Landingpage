@@ -1227,9 +1227,13 @@ a.menu-toggle {
 	letter-spacing: .25rem;
 }
 .intro-content .clothxlogo-part {
-	margin: 100px ;
-	height: 125px;
-	background-image: url("../images/CX.png");
+	color: #FFFFFF;
+	font-family: "audiowide", serif;
+	font-size: 5.4rem;
+	line-height: 1.334;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: contain;
